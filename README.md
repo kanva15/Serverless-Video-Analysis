@@ -1,4 +1,4 @@
-# Serverless-Video-Analysis4
+# Serverless-Video-Analysis
 =====================================
 
 This project implements a serverless video analysis pipeline using AWS Lambda, Amazon S3, Docker, and PyTorch. It extracts frames from a video, classifies each frame using a pre-trained deep learning model, and uploads the results back to S3.
