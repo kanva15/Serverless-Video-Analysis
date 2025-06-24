@@ -34,7 +34,7 @@ Setup Instructions
 
 1. Clone the Repository
 
-   git clone https://github.com/your-username/serverless-video-analysis.git
+   git clone https://github.com/kanva15/serverless-video-analysis.git
    cd serverless-video-analysis
 
 2. Configure AWS Credentials
