@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment files and secrets
+.env
+*.env
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Git files
+.git
+.gitignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output and build files
+*.log
+*.tar
+*.zip
+
+# Sample video and generated frames
+sample.mp4
+frames/
